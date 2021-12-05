@@ -1,0 +1,45 @@
+{
+	"name": "awesome-tech-blogs",
+	"description": "CLI version of https://tech-blogs.dev ",
+	"version": "0.0.1",
+	"license": "MIT",
+	"type": "module",
+	"bin": {
+		"awesome-tech-blogs": "index.js",
+		"atb": "index.js"
+	},
+	"author": {
+		"name": "Praveen Kumar",
+		"email": "hello@praveeen.in",
+		"url": "https://praveeen.in"
+	},
+	"keywords": [
+		"awesome-tech-blogs",
+		"Praveen Kumar"
+	],
+	"files": [
+		"index.js",
+		"utils"
+	],
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\""
+	},
+	"dependencies": {
+		"boxen": "^6.2.1",
+		"chalk": "^5.0.0",
+		"cli-alerts": "^1.2.2",
+		"cli-handle-error": "^4.4.0",
+		"cli-handle-unhandled": "^1.1.1",
+		"cli-meow-help": "^2.0.2",
+		"cli-welcome": "^2.2.2",
+		"fs-extra": "^2.1.2",
+		"git-file-downloader": "^1.4.0",
+		"joi": "^10.3.1",
+		"meow": "^9.0.0",
+		"ora": "^6.0.1",
+		"superagent": "^3.5.2"
+	},
+	"devDependencies": {
+		"prettier": "^2.5.0"
+	}
+}
