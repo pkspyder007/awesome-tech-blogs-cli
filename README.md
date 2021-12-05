@@ -1,4 +1,4 @@
-# awesome-tech-blogs-cli
+# awesome-tech-blogs
 ## _CLI vesion of tech-blogs.dev_
 
 ## Installation
@@ -27,3 +27,6 @@ atb -t css
 ```
 
 ![list/search screen](/imgs/list.png)
+
+
+Follow me on twitter https://twitter.com/pkspyder007

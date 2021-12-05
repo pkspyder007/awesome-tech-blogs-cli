@@ -27,6 +27,7 @@
 		"format": "prettier --write \"./**/*.{js,json}\""
 	},
 	"dependencies": {
+		"awesome-tech-blogs": "^0.0.1",
 		"boxen": "^6.2.1",
 		"chalk": "^5.0.0",
 		"cli-alerts": "^1.2.2",
@@ -36,8 +37,10 @@
 		"cli-welcome": "^2.2.2",
 		"fs-extra": "^2.1.2",
 		"git-file-downloader": "^1.4.0",
+		"i": "^0.3.7",
 		"joi": "^10.3.1",
 		"meow": "^9.0.0",
+		"npm": "^8.2.0",
 		"ora": "^6.0.1",
 		"superagent": "^3.5.2"
 	},
