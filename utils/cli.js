@@ -24,7 +24,7 @@ const flags = {
 const commands = {
 	help: { desc: `Print help info` },
 	tag: { desc: `Print help info` },
-	all: { desc: `Print all blog details` },
+	all: { desc: `Print all blog details` }
 };
 
 const helpText = meowHelp({

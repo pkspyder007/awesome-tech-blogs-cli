@@ -2,7 +2,7 @@
 
 /**
  * awesome-tech-blogs
- * CLI version of https://tech-blogs.dev 
+ * CLI version of https://tech-blogs.dev
  *
  * @author Praveen Kumar <https://praveeen.in>
  */

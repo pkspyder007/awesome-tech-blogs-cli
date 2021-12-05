@@ -1,6 +1,6 @@
 import welcome from 'cli-welcome';
 import unhandled from 'cli-handle-unhandled';
-import { createRequire } from "module";
+import { createRequire } from 'module';
 import { downloadData } from './data.js';
 const require = createRequire(import.meta.url);
 const pkg = require('./../package.json');
